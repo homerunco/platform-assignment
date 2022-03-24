@@ -11,7 +11,7 @@ You should spend between 2 and 4 hours on this, depending on your familiarity wi
 
 ### Assignment
 
-At Homerun, we offer our customers the option to add a custom domain to serve their career site and vacancies under a personalised domain, like jobs.yourcompany.com. Customers will be able to configure the custom domain via application settings, as shown in this image:
+At Homerun, we offer our customers the option to add a custom domain to serve their career site and vacancies under a personalised domain, like jobs.mycompany.com. Customers will be able to configure the custom domain via application settings, as shown in this image:
 
 ![Custom domain settings](https://raw.githubusercontent.com/homerunco/platform-assignment/main/img/settings.png)
 
