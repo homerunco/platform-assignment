@@ -1,8 +1,8 @@
 ### Introduction
 
-The purpose of this assignment is for engineers to exhibit their way of thinking, problem solving and writting skills, when facing an unknown problem.
+The purpose of this assignment is for engineers to exhibit their way of thinking, problem solving, technical and writting skills, when facing an unknown problem.
 
-You should spend between 2 and 4 hours on this, depending on your familiarity with web servers configuration and SSL certificates.
+You should spend between 6 and 8 hours on this, depending on your familiarity with web servers configuration, SSL certificates and infrastructure as code.
 
 ### How to succeed
 
